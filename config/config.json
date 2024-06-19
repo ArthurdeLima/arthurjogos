@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "senha123@",
+    "database": "arthurjogos",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "senha123@",
+    "database": "arthurjogos_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "senha123@",
+    "database": "arthurjogos_production",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
